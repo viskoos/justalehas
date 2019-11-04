@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/justalehas/static/css/main.34de6062.chunk.css",
+    "main.js": "/justalehas/static/js/main.787a06dc.chunk.js",
+    "main.js.map": "/justalehas/static/js/main.787a06dc.chunk.js.map",
+    "runtime-main.js": "/justalehas/static/js/runtime-main.58aa7323.js",
+    "runtime-main.js.map": "/justalehas/static/js/runtime-main.58aa7323.js.map",
+    "static/css/2.0624914a.chunk.css": "/justalehas/static/css/2.0624914a.chunk.css",
+    "static/js/2.a028914f.chunk.js": "/justalehas/static/js/2.a028914f.chunk.js",
+    "static/js/2.a028914f.chunk.js.map": "/justalehas/static/js/2.a028914f.chunk.js.map",
+    "index.html": "/justalehas/index.html",
+    "precache-manifest.6ef335d7428cdfe028618f1817655d7a.js": "/justalehas/precache-manifest.6ef335d7428cdfe028618f1817655d7a.js",
+    "service-worker.js": "/justalehas/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/justalehas/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/justalehas/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58aa7323.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.a028914f.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.787a06dc.chunk.js"
+  ]
+}
